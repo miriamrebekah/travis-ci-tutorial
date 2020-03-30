@@ -13,7 +13,7 @@ This is a working minimal example of how to use Travis CI (and Codecov) with Jav
 1. [Fork](https://github.com/miriamrebekah/travis-ci-tutorial/fork) this Repository
 2. Make sure it is public (so we can get free CI!)
 3. Fix the `README.md` badges (replacing all the `miriamrebekah` occurrences in the file with `your-github-username`) and push the changes.
-4. Go to [Travis CI](http://travis-ci.org) dot org (the .org is important!)
+4. Go to [Travis CI](http://travis-ci.org) dot org (the .org is important! ok?)
 5. Sign in with your GitHub account
 6. Under your profile settings, enable the repository
 7. Make another edit to the repository (e.g., edit `README.md`) and push the changes. This should trigger a build in Travis CI.
